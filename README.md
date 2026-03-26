@@ -5,12 +5,15 @@ This project automates sending emails using Python and SMTP.
 
 ## 🛠️ Tech Stack
 - Python
-- smtplib
+-  smtplib
 - email.message
+- schedule
+- time
 
 ## ⚙️ Features
 - Send a single email automatically
 - Simple and beginner-friendly
+- Send Scheduled email
 
 ## 🔐 Setup Instructions
 1. Enable 2-Step Verification on your Gmail
